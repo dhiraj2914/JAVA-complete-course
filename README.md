@@ -25,24 +25,24 @@ Complete Java programming course from Bro Code covering everything from basics t
 ### 🟢 Foundation Level
 
 **Core Concepts**
-- [ ] Introduction to Java
-- [ ] Variables (primitive & reference types)
-- [ ] User Input with Scanner
-- [ ] Arithmetic Operations
-- [ ] If Statements & Conditionals
-- [ ] Random Numbers
-- [ ] Math Class Functions
-- [ ] Printf Formatting
-- [ ] Nested If Statements
+- [x] Introduction to Java
+- [x] Variables (primitive & reference types)
+- [x] User Input with Scanner
+- [x] Arithmetic Operations
+- [x] If Statements & Conditionals
+- [x] Random Numbers
+- [x] Math Class Functions
+- [x] Printf Formatting
+- [x] Nested If Statements
 - [ ] String Methods & Manipulation
 - [ ] Substrings
 - [ ] Ternary Operator
 - [ ] Enhanced Switch Statements
 
 **🎮 Beginner Projects**
-- [ ] **Mad Libs Game** - Practice string manipulation and user input
-- [ ] **Shopping Cart Program** - Apply arithmetic and variables
-- [ ] **Compound Interest Calculator** - Mathematical operations
+- [x] **Mad Libs Game** - Practice string manipulation and user input
+- [x] **Shopping Cart Program** - Apply arithmetic and variables
+- [x] **Compound Interest Calculator** - Mathematical operations
 - [ ] **Weight Converter** - Unit conversion with conditionals
 - [ ] **Temperature Converter** - More conditional practice
 - [ ] **Basic Calculator** - Switch statements and methods
@@ -60,7 +60,7 @@ Complete Java programming course from Bro Code covering everything from basics t
 - [ ] Variable Scope
 
 **Data Management**
-- [ ] Arrays
+- [] Arrays
 - [ ] User Input into Arrays
 - [ ] Searching Arrays
 - [ ] Varargs (Variable Arguments)
@@ -219,10 +219,10 @@ Complete Java programming course from Bro Code covering everything from basics t
 
 ## ✅ Progress Tracker
 
-**Course Completion**: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+**Course Completion**: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12%
 
-**Topics Mastered**: 0 / 71  
-**Projects Completed**: 0 / 15
+**Topics Mastered**: 9 / 71  
+**Projects Completed**: 2 / 15
 
 *Last Updated: September 4, 2025*
 
